@@ -1,0 +1,4 @@
+Name: huda
+Age: 20
+ID: s440596
+Marks: [99, 91, 87]
